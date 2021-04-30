@@ -1,2 +1,2 @@
 # PaginawebNatura
-Pagina Web para Negocios Electronicos II
+Pagina Web para Negocios Electronicos 2
