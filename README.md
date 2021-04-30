@@ -1,2 +1,2 @@
 # PaginawebNatura
-Pagina Web para Negocios Electronicos II
+Pagian desarrollada para negocios electronicos 2
